@@ -1,6 +1,6 @@
 # 你好，我是 Kunpeng 👋
 
-[English](./README.md) · 中文
+[English](./README.en.md) · 中文
 
 我做的是让日常工作变轻一点的 AI 工具。我不是传统意义上的工程师，大部分东西都是和 coding agent 一起写出来的。我在意的是那种「会被打开第二次」的工具。Spread happy and love. 🐼
 
