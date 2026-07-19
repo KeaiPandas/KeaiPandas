@@ -1,6 +1,6 @@
 # Hi, I'm Kunpeng 👋
 
-English · [中文](./README.zh.md)
+English · [中文](./README.md)
 
 I build AI tools that make everyday work lighter. I'm not a traditional engineer — most of what I ship is built alongside coding agents. I care about tools people actually open twice. Spread happy and love. 🐼
 
